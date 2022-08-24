@@ -2,7 +2,7 @@
 
 set -e
 
-apt update && apt install apt install libpar-packer-perl --yes
+apt update && apt install libpar-packer-perl --yes
 
 wget https://github.com/daveewart/colordiff/raw/58244c5faaf194f1e5f91babd04f07c692d4d0aa/colordiff.pl
 wget https://github.com/daveewart/colordiff/raw/58244c5faaf194f1e5f91babd04f07c692d4d0aa/colordiffrc
